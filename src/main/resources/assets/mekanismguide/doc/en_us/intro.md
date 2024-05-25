@@ -1,4 +1,5 @@
 ## Introduction
+
 Mekanism is an independent tech mod that brings many different machinery types to Minecraft,
 solving problems nobody knew they had. The mod doesn't have any main goals, and you'll notice this when you see the seemingly random content Mekanism contains (from jetpacks to balloons). However, there is a somewhat linear progression system that is both easy to follow and increases in complexity as the player becomes
 more accustomed to the mod, making sure that the player will have an easy time getting into the mod without ever getting bored with it.
@@ -16,35 +17,45 @@ By the time the player has got used to using Mekanism, they will have unlimited 
 ## Main Features
 
 ### Power Compatibility
+
 Unless disabled in the configuration, Mekanism accepts power in and can convert to/from a number of energy formats: Mekanism Joules, Forge Energy, IC2 Energy Units (EU), and Flux Networks. NB: IC2 Classic is not actively supported.
 
 ### Ore Processing
+
 Mekanism features an extremely advanced, extensive ore processing system. From simple machines used to process ores into ingots electronically, to complex chemical-based ore injection used to gain four ingots for every ore mined, Mekanism covers basic smelting, as well as 2x, 3x, and 4x duplication.
 All machines have configurable input and eject sides, allowing you to have complete control over how you want to manage your machinery.
 
 ### Factories
+
 Mekanism introduces the concept of "[factories](functional_blocks/factories.md)", which are multi-operation machines that can process multiple stacks of ores simultaneously. In a single machine, you can be smelting several stacks of ore into ingots, enriching several stacks of ores into dusts, or crushing several stacks of cobblestone into gravel.
 
 ### Ores
+
 Mekanism is founded on the resource Osmium which generates pretty commonly at any Y level below 60. Osmium can be used to create tools and armor, but it is primarily used in the making of machinery.
-Tin, Copper, Gold &amp; Bronze are also used in crafting recipes.
+Tin, Copper, Gold & Bronze are also used in crafting recipes.
 
 ### Armor and Tools
+
 Mekanism brings five new sets of armor and tools to the table, as well as the ever-famed Paxel (an all-in-one tool).
 
 However, as Mekanism is a "tech mod," it has to have some cool techy gadgets. The Atomic Disassembler is an expensive, electronic multi-tool that can be set to mine at different speeds. Can't forget the Jetpack and Scuba Mask/Tank combination.
 
 ### Robit
+
 The Robit is a cute little electronic robot that will follow you around and collect item drops for you. He also serves as a portable furnace, workbench, anvil, chest, and spirit lifter.
 
 ### Mining
+
 Mekanism introduces the "Digital Miner" - an automated mining machine that can sort through terrain and pick out the resources you specify. It uses a filter-based system, and will then go through the range you specify and mine the blocks it needs to.
 
 ### Dynamic Tanks
+
 These are multiblock tanks that can be shaped as any rectangular prism (capping at 18x18x18).
 
 ### Transmitters (AKA pipes)
+
 Mekanism features multiple ways of transmitting items, fluids, gasses, heat and energy from once place to another, using devices we call "transmitters."
 
 ### Quantum Item Orchestration (QIO)
+
 QIO is a way of storing large amounts of items that can be stored, searched, and accessed remotely in late game.
